@@ -1,6 +1,6 @@
 {
-  "name": "nummarfo",
-  "version": "0.0.2",
+  "name": "nummar",
+  "version": "0.0.3",
   "description": "A small module that fetches information from nummar.fo",
   "main": "app.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Sakarisson/nummarfo.git"
+    "url": "git+https://github.com/Sakarisson/nummar.git"
   },
   "keywords": [
     "nummar",
@@ -21,9 +21,9 @@
   "author": "Kristian Sakarisson",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sakarisson/nummarfo/issues"
+    "url": "https://github.com/Sakarisson/nummar/issues"
   },
-  "homepage": "https://github.com/Sakarisson/nummarfo#readme",
+  "homepage": "https://github.com/Sakarisson/nummar#readme",
   "devDependencies": {
     "standard": "^8.6.0"
   },
