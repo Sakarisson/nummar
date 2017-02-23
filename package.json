@@ -18,7 +18,7 @@
     "faroeislands",
     "phonebook"
   ],
-  "author": "Kristian Sakarisson",
+  "author": "Kristian Sakarisson <kristian@sakarisson.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/Sakarisson/nummar/issues"
@@ -31,5 +31,8 @@
     "async": "^2.1.5",
     "cheerio": "^0.22.0",
     "underscore": "^1.8.3"
+  },
+  "engines": {
+    "node": ">= 4.5.0"
   }
 }
