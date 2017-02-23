@@ -40,7 +40,7 @@ function getResults (body, callback) {
   callback(null, results)
 }
 
-function search(param, callback) {
+exports.search = (param, callback) => {
   async.waterfall([
     (callback) => { callback(null, param) },
     getInfo,
@@ -49,11 +49,3 @@ function search(param, callback) {
     callback(error, result)
   })
 }
-
-search('kristian sakarisson', (error, result) => {
-  if(!error) {
-    console.log(result)
-  } else {
-    console.log(error)
-  }
-})
