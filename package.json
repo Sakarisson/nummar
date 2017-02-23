@@ -1,6 +1,6 @@
 {
   "name": "nummarfo",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A small module that fetches information from nummar.fo",
   "main": "app.js",
   "scripts": {
@@ -15,8 +15,7 @@
     "ft",
     "foroya",
     "tele",
-    "faroe",
-    "islands",
+    "faroeislands",
     "phonebook"
   ],
   "author": "Kristian Sakarisson",
@@ -24,5 +23,12 @@
   "bugs": {
     "url": "https://github.com/Sakarisson/nummarfo/issues"
   },
-  "homepage": "https://github.com/Sakarisson/nummarfo#readme"
+  "homepage": "https://github.com/Sakarisson/nummarfo#readme",
+  "devDependencies": {
+    "standard": "^8.6.0"
+  },
+  "dependencies": {
+    "async": "^2.1.5",
+    "cheerio": "^0.22.0"
+  }
 }
