@@ -1,0 +1,28 @@
+{
+  "name": "nummarfo",
+  "version": "0.0.1",
+  "description": "A small module that fetches information from nummar.fo",
+  "main": "app.js",
+  "scripts": {
+    "test": "standard"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sakarisson/nummarfo.git"
+  },
+  "keywords": [
+    "nummar",
+    "ft",
+    "foroya",
+    "tele",
+    "faroe",
+    "islands",
+    "phonebook"
+  ],
+  "author": "Kristian Sakarisson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sakarisson/nummarfo/issues"
+  },
+  "homepage": "https://github.com/Sakarisson/nummarfo#readme"
+}
