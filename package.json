@@ -1,6 +1,6 @@
 {
   "name": "nummar",
-  "version": "0.0.4",
+  "version": "0.1.1",
   "description": "A small module that fetches information from nummar.fo",
   "main": "app.js",
   "scripts": {
@@ -30,6 +30,7 @@
   "dependencies": {
     "async": "^2.1.5",
     "cheerio": "^0.22.0",
+    "request": "^2.79.0",
     "underscore": "^1.8.3"
   },
   "engines": {
