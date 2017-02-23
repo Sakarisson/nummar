@@ -3,10 +3,6 @@
 Nummar is a simple module that is able to fetch Faroese phone numbers, addresses and various other things from nummar.fo
 The module simply takes whichever argument you use, and searches for that on nummar.fo
 
-  - Type some Markdown on the left
-  - See HTML in the right
-  - Magic
-
 # Installation
 To use the module, simple install it from your favorite command line:
 ```
